@@ -1,0 +1,11 @@
+ipython==8.2.0
+ipywidgets==7.6.5
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.2.4
+plotly==5.6.0
+scikit_learn==1.0.2
+xlrd==1.2.0
+voila==0.3.5
+Shapely==1.8.2
+
